@@ -57,6 +57,7 @@ body {
   margin: 3rem auto;
   box-shadow: 0 0 1rem rgba(0, 0, 0, .5);
   background: #361F36;
+  color:#ffffff;
 }
 
 .menu__item {
